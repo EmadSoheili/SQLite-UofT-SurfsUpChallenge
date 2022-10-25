@@ -27,9 +27,38 @@ The outputs includes:
 
 ![](/Output/D2_Data.png) ![](/Output/D2_Stats.png)
 
+### Key differences between June and December temperatures
+
+* **Mean** Temperature
+    * June: **75°F**
+    * December: **71°F**
+* **Maximum** Temperature
+    * June: **85°F**
+    * December: **83°F**
+* **Minimum** Temperature
+    * June: **64°F**
+    * December: **56°F**
 ---
 
-### Key Differences between June and December Weather
+## Summary
+
+### Adtional Query 1: Precipitation for June
+
+Result includes Data and Summary Statistics as below.
+
+![](/Output/P1_Data.png) ![](/Output/P1_Stats.png)
+
+---
+
+### Adtional Query 2: Precipitation for December
+
+Result includes Data and Summary Statistics as below.
+
+![](/Output/P2_Data.png) ![](/Output/P2_Stats.png)
+
+---
+
+## Conclusion
 
 * On average, weather temperature in June is nearly 75°F, and temperature in December is 71°F. <br/>
   There is a 4°F difference in temperature. <br/>
@@ -39,9 +68,5 @@ The outputs includes:
     * *It seems there is not much difference in Surfing experience in the warmest day of June and warmest day of December*
 * Minimum temperature shows a eight-degree difference in temperature.
     * *It seems for planning a Surfing trip in December, more precautions should be taken into consideration.*
-
----
-
-## Summary
-
-
+* Precipitation is nearly 50% higher in December compared to June, both in mean and maximum
+    * *It seems December Surfing plan has more precipitation odds, which might affect people's Surfing experience*
